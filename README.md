@@ -1,4 +1,4 @@
-# AI-andstuff
+# AI/ML-andstuff
 @ MAI IT-Center 2023 
 
 **Natalia Suchkova, group: М8О-114М-22**\
