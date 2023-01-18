@@ -6,3 +6,4 @@
 *Для решения были выбраны алгоритмы Self-adaptive Differential Evolution (sade), Grey Wolf Optimizer (gwo), Extended Ant Colony Optimization algorithm (gaco). В качестве тестовых функций для оптимизации использовались функция Химмельблау, Растригина и Розенброка.*
 
 - Сконструировать нефункциональную (алгоритмическую) проблему оптимизации и решить ее алгоритмом библиотеки pygmo.
+![image](https://user-images.githubusercontent.com/113051918/213056721-8c2e2de9-4346-4524-934f-0160bc2ff084.png)
